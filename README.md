@@ -1,0 +1,2 @@
+# duplicut
+Terminal Duplicate Finder
